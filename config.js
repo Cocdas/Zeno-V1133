@@ -1,7 +1,7 @@
 /*
   >> Control <<
 */
-global.owner = ['6283151568511']
+global.owner = ['94787351423']
 global.ownername = "dray"
 global.connect = true // ubah ke false klo mau connect lewat qrcode 
 global.antilink = false
